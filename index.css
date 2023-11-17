@@ -1,0 +1,24 @@
+body {
+  margin: 0px;
+}
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png");
+  min-height: 100vh;
+  background-size: cover;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.congra-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #cffafe;
+  padding: 30px;
+}
+.logo {
+  width: 150px;
+}
